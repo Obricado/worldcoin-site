@@ -1,0 +1,9 @@
+
+1. Go to https://github.com and create a new public repository (e.g., worldcoin-site)
+2. Upload the files from this ZIP:
+   - index.html
+   - README.md
+3. After uploading, go to Settings > Pages
+4. Under "Source", select "main" branch and folder "/root"
+5. Click Save — your site will be live at:
+   https://your-username.github.io/worldcoin-site/
